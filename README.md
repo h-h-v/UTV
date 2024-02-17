@@ -1,7 +1,9 @@
 #Traffic vehicle tracker
 #Input Video footage
-https://github.com/h-h-v/UTV/assets/80401092/95ca7d0f-6975-4f24-b810-1cddcaae9fa9
+![sample_traffic (1)](https://github.com/h-h-v/UTV/assets/80401092/da5c939c-4a26-42f6-be1f-db5442806068)
+
 
 #Output Video after tracking
-https://github.com/h-h-v/UTV/assets/80401092/996ce756-1a80-491c-81cd-74560e13ff74
 
+
+![output_traffic (1)](https://github.com/h-h-v/UTV/assets/80401092/316c6267-4530-436b-8638-8b1b136cea44)
